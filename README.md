@@ -1,4 +1,3 @@
-# wasmvm
 
 [![Tests](https://github.com/line/wasmvm/actions/workflows/tests.yml/badge.svg)](https://github.com/line/wasmvm/actions/workflows/tests.yml)
 
@@ -9,4 +8,3 @@ This is a wrapper around the [CosmWasm VM](https://github.com/line/cosmwasm/tree
 It allows you to compile, initialize and execute CosmWasm smart contracts
 from Go applications, in particular from [x/wasm](https://github.com/line/lbm-sdk/tree/main/x/wasm).
 
-For more detail, see the [original document](https://github.com/CosmWasm/wasmvm#readme)
